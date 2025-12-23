@@ -15,5 +15,5 @@ Layer di Stile .qmd: File di layer di stile QGIS per una visualizzazione coerent
 
 Progetto QGIS: File di progetto QGIS (.qgz) contenente tutti i layer e le impostazioni per un facile accesso e manipolazione dei dati.
 
-DOI REPOSITORY: [![DOI](https://zenodo.org/badge/1121718249.svg)](https://doi.org/10.5281/zenodo.18034415)
+DOI REPOSITORY: [![DOI](https://zenodo.org/badge/1121718249.svg)](https://doi.org/10.5281/zenodo.18034415) 
 

@@ -1,5 +1,5 @@
 # CARTA-GEOLOGICA-DEL-VERSANTE-NORD-ORIENTALE-DEL-MASSICCIO-DEL-POLLINO
-Questo repository contiene i dati cartografici digitali e i materiali associati alla CARTA GEOLOGICA DEL VERSANTE NORD-ORIENTALE DEL MASSICCIO DEL POLLINO (CONFINE CALABRO-LUCANO) - scala 1:50.000.
+Questo repository contiene i dati cartografici digitali e i materiali associati alla CARTA GEOLOGICA DEL VERSANTE NORD-ORIENTALE DEL MASSICCIO DEL POLLINO (CONFINE CALABRO-LUCANO) - scala 1:50.000. (Tortorici et al., 1995).
 
 Se utilizzi questo dataset, ti preghiamo di citarlo come di seguito: Falsetta, E. (2025). Carta Geologica del versante Nord-Orientale del Massiccio del Pollino (Confine Calabro-Lucano), scala 1:50.000, in formato vettoriale (Version 1.0) [Data set]. https://doi.org/10.5281/zenodo.18034416 
 
@@ -18,7 +18,7 @@ Progetto QGIS: File di progetto QGIS (.qgz) contenente tutti i layer e le impost
 DOI REPOSITORY: [![DOI](https://zenodo.org/badge/1121718249.svg)](https://doi.org/10.5281/zenodo.18034415) 
 
 # GEOLOGICAL-MAP-OF-THE-THE-NORTH-EASTERN-SLOPE-OF-THE-POLLINO-MASSIF
-This repository contains the digital cartographic data and associated materials for the Geological Map of the North-Eastern slope of the Pollino Massif - scale 1:50,000.
+This repository contains the digital cartographic data and associated materials for the Geological Map of the North-Eastern slope of the Pollino Massif - scale 1:50,000. (Tortorici et al., 1995).
 
 If you use this software, please cite it as below: Falsetta, E. (2025). Geological Map of the Northeastern Slope of the Pollino Massif (Calabrian–Lucanian Boundary), 1:50,000 scale, in vector format (Version 1.0) [Data set]. https://doi.org/10.5281/zenodo.18034416 
 

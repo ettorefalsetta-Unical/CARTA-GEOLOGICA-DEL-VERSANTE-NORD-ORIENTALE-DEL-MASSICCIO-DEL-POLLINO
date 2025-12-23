@@ -1,7 +1,7 @@
 # CARTA-GEOLOGICA-DEL-VERSANTE-NORD-ORIENTALE-DEL-MASSICCIO-DEL-POLLINO
 Questo repository contiene i dati cartografici digitali e i materiali associati alla CARTA GEOLOGICA DEL VERSANTE NORD-ORIENTALE DEL MASSICCIO DEL POLLINO (CONFINE CALABRO-LUCANO) - scala 1:50.000.
 
-Se utilizzi questo dataset, ti preghiamo di citarlo come di seguito: Falsetta, E. (2025). Carta Geologica del versante nord-orientale del Massiccio del Pollino, scala 1:50.000, in formato vettoriale (Version 1.0) [Data set]. 10.5281/zenodo.16747647
+Se utilizzi questo dataset, ti preghiamo di citarlo come di seguito: Falsetta, E. (2025). Carta Geologica del versante nord-orientale del Massiccio del Pollino, scala 1:50.000, in formato vettoriale (Version 1.0) [Data set]. 10.5281/zenodo.18034416
 
 Referenza: CARTA GEOLOGICA DEL VERSANTE NORD-ORIENTALE DEL MASSICCIO DEL POLLINO (CONFINE CALABRO-LUCANO). 1995. -  L. TORTORICI, C. MONACO, L. MORTEN, S. CRITELLI, C. TANSI. Scala 1:50000. https://www.pconti.net/egeo_results.php?id=asgb409 
 
@@ -15,4 +15,5 @@ Layer di Stile .qmd: File di layer di stile QGIS per una visualizzazione coerent
 
 Progetto QGIS: File di progetto QGIS (.qgz) contenente tutti i layer e le impostazioni per un facile accesso e manipolazione dei dati.
 
-DOI REPOSITORY: [![DOI](https://zenodo.org/badge/1032669282.svg)](https://doi.org/10.5281/zenodo.16747646)
+DOI REPOSITORY: [![DOI](https://zenodo.org/badge/1121718249.svg)](https://doi.org/10.5281/zenodo.18034415)
+
